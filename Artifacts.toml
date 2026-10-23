@@ -1,0 +1,178 @@
+[[simple_dftd3]]
+arch = "aarch64"
+git-tree-sha1 = "8c3d5979a35a7a7a64ca4f96c5ed25eb39f2193b"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[simple_dftd3.download]]
+    sha256 = "ba03aa3f160b23f3a5fc8c81c43a47c1e64d7949ef0b20fe16f219fd05ba8f28"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "aarch64"
+git-tree-sha1 = "1ad991bcde9e514374cf72214e8f5cb8c8498c45"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[simple_dftd3.download]]
+    sha256 = "9c71c1c637cd03909baf5124cf0f7f8e422e771974e3130c178504ea94dacc63"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "aarch64"
+git-tree-sha1 = "910a5862291bdb2017c353ea794bc03befacd366"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[simple_dftd3.download]]
+    sha256 = "33c9f1a34d175cc8b3892fbde0f922de7126fb1fbccf3b8c7b5f505551d7a42e"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "aarch64"
+git-tree-sha1 = "ce32f04a1a987889f34e4459f9b3e962864223b9"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[simple_dftd3.download]]
+    sha256 = "1ed63657f1d0fcb2c19d403df2e52b89bd3a0927cebb48421b8aa4a38978e970"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4d8baa119d8d085af9423117798d7bdf703d7901"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[simple_dftd3.download]]
+    sha256 = "3ba1b5d791f892d1c27ed48da099eba4d5a9a905ba18207fe3ffc9296d29a961"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "465e788061304bbce0bdbb4d5ec8186fd002b76b"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[simple_dftd3.download]]
+    sha256 = "4df4c6ece5e972302210df7744af8af10ee60acadd585ad835df972f3be91638"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "39053c484915d35f3423fc3990b741f3479411e7"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[simple_dftd3.download]]
+    sha256 = "aa5ba0cc20f164fa0e2886917c1dc6cdd6adc15ae73613255c5a6669590cedc5"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bb8acb53dc60c33ee459843ba0939d810db3524d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[simple_dftd3.download]]
+    sha256 = "764acb9f6241dac077c958e27405b3157da8c0a89a8583cb57a405f69c529242"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "i686"
+git-tree-sha1 = "46ea74f77b69510ef74256941712e7d2a1602aba"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[simple_dftd3.download]]
+    sha256 = "2ef046497492690afb5eb903df2d9bb94c79a469705d720b7d78fddc0e0ba803"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "i686"
+git-tree-sha1 = "9c1146368463b14744987c4c6d18543dfbec9ad4"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[simple_dftd3.download]]
+    sha256 = "4f3afaa8278a2f21f95365976a11512629f66783ddb80f059bb5414b41b4e48f"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.i686-linux-musl-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "i686"
+git-tree-sha1 = "e1b40b1068d50e08adda4b5f47b41153d740d73f"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[simple_dftd3.download]]
+    sha256 = "df0d5ca5ec6b466d09a9e40230c800d843ee028605c90efdebcd36b88b18be25"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "powerpc64le"
+git-tree-sha1 = "489e6b127429e56a29e1ebdbe3ecd84d7699a039"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[simple_dftd3.download]]
+    sha256 = "013325316981c43e100c25b54b84dd0ee6e58da27401a0aac8953b8690781def"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "riscv64"
+git-tree-sha1 = "f3f565febc26f7a4a0746e5efa892274620e5168"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[simple_dftd3.download]]
+    sha256 = "3572f312cfa6590dae5f188e9280ef4b55f8faf6dec12b4c4e74265d234dcf30"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.riscv64-linux-gnu-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "x86_64"
+git-tree-sha1 = "eeace6e9a8923a28f1237fb933889fe66b2173d6"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[simple_dftd3.download]]
+    sha256 = "166e50fc970362532c9bf3b65062a1ea4dec01377c611f3a6383034e0283d0c9"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "x86_64"
+git-tree-sha1 = "54d7d251b9c51d67d0df2bea55b21cbda2e6acc8"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[simple_dftd3.download]]
+    sha256 = "519f3eb98ada918ead89e624b4527a9a35051898b675f1593b092bb7f1b410a0"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "x86_64"
+git-tree-sha1 = "cf3e6c4006dd0188284992cfbbfbb7c30b169765"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[simple_dftd3.download]]
+    sha256 = "4f0761b1f304adb23a72dadb2928030c25add7c7b125391c881e71fc021918ee"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "x86_64"
+git-tree-sha1 = "ecd3c5e09460043185c1a20c2c3c8d0fc8f5b0d1"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[simple_dftd3.download]]
+    sha256 = "67988f4da39389fcd922567d102cce0faca9047a6e79ea14310e643842f9666e"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[simple_dftd3]]
+arch = "x86_64"
+git-tree-sha1 = "fb423f64489b4ba88071f10873fe28b2323ca48c"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[simple_dftd3.download]]
+    sha256 = "6058c66ddbffe160b83f6a64ebb93b845aada2e24b4b1369db944f1cd2d6a0bf"
+    url = "https://github.com/JuliaBinaryWrappers/simple_dftd3_jll.jl/releases/download/simple_dftd3-v1.6.0+0/simple_dftd3.v1.6.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
